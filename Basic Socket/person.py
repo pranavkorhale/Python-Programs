@@ -2,6 +2,8 @@ class Person:
     def __int__(self, addr, client):
         self.addr = addr
         self.client = client
+        #code
+        #best
         self.name = None
 
     def set_name(self, name):
